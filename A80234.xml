@@ -1,0 +1,555 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The comical dream, or, The tempest: a mock poem. Representing the humours of some sea-sick passengers their feav'rish valour, and their aguish fears: with the true description of a false sea-fight:.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80234</idno>
+            <idno type="STC">Wing C5538E</idno>
+            <idno type="STC">ESTC R174179</idno>
+            <idno type="EEBO-CITATION">47682869</idno>
+            <idno type="OCLC">ocm 47682869</idno>
+            <idno type="VID">172824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2651:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The comical dream, or, The tempest: a mock poem. Representing the humours of some sea-sick passengers their feav'rish valour, and their aguish fears: with the true description of a false sea-fight:.</title>
+               </titleStmt>
+               <extent>[3], 6-15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Bruges,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London --  Social life and customs --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172824:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>THE Comical Dream, OR, The Tempeſt: <hi>A Mock Poem.</hi>
+            </p>
+            <p>REPRESENTING <hi>The Humours of ſome Sea-ſick Paſſengers Their Feav'riſh Valour, and their Aguiſh fears:</hi> WITH The true Deſcription of a Falſe Sea-Fight:</p>
+            <q>
+               <p>Qui ducis Vultus, &amp; non legis iſta libenter, Omnibus invideas livide Nemo tibi.</p>
+               <bibl>
+                  <hi>Mart. Lib. I. Epig.</hi>
+               </bibl>
+            </q>
+            <p>London Printed by <hi>H. Bruges,</hi> 1674</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:172824:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb facs="tcp:172824:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>THE Comical Dream, OR The Tempeſt. <hi>A Mock Poem,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <lg>
+               <l>
+                  <hi>HIs humble Pen receives no Aid from thoſe</hi>
+               </l>
+               <l>
+                  <hi>Who Thunder in Verſe, and ſpeak like Guns in Proſe:</hi>
+               </l>
+               <l>
+                  <hi>Such Wit like Powder makes a horrid noiſe</hi>
+               </l>
+               <l>
+                  <hi>And with a bounceing-flaſh it ſelf deſtroy's.</hi>
+               </l>
+               <l>
+                  <hi>Theſe Empty-Authors only rich in ſound</hi>
+               </l>
+               <l>
+                  <hi>VVith glorious Nonſence all their Books abound.</hi>
+               </l>
+               <l>
+                  <hi>O how ambitiouſly they Court the Preſs,</hi>
+               </l>
+               <l>
+                  <hi>To make the ignorant admire their dreſs:</hi>
+               </l>
+               <l>
+                  <hi>To gain the Applauſes of a Vulgar breath</hi>
+               </l>
+               <l>
+                  <hi>Which once ſuckt in, like Poyſon, ſwells to death.</hi>
+               </l>
+               <l>
+                  <hi>Dull-Soulleſs-men! inſtead of nat'ral parts,</hi>
+               </l>
+               <l>
+                  <hi>Their brains ſtuft full with low Mechanick Arts.</hi>
+               </l>
+               <pb n="6" facs="tcp:172824:3"/>
+               <!-- PDF PAGE 10 -->
+               <l>
+                  <hi>Few be ſo happy to reach DRYDEN'S height,</hi>
+               </l>
+               <l>
+                  <hi>Or if they ſhould, the wit is out of ſight!</hi>
+               </l>
+               <l>
+                  <hi>Then do not blame me for ſo low a ſtile,</hi>
+               </l>
+               <l>
+                  <hi>My Wit's compel'd in other ſports to toyle,</hi>
+               </l>
+               <l>
+                  <hi>Or rather buſineſs calls me from my Pen,</hi>
+               </l>
+               <l>
+                  <hi>Such buſineſs as confounds the Witts of men.</hi>
+               </l>
+               <l>—<hi>Shou'd I thus begin</hi>—</l>
+            </lg>
+            <lg>
+               <l>It is well known to ſome, or moſt of ye,</l>
+               <l>How Merchants go in Wood, cut out of Tree,</l>
+               <l>To take freſh Air in croſſing the ſalt Sea:</l>
+               <l>But who the Devil wou'd like ſuch Ribaldry?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>My Taper here, ſeeing ſuch wretched ſtuffe,</hi>
+               </l>
+               <l>
+                  <hi>Ner took its leave but vaniſh'd in a ſnuff.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>LONDON,</hi> that Famous City for Commerce.</l>
+               <l>Muſes aſſiſt, to ſing her praiſe in Verſe.</l>
+               <l>Let learn'd Hiſtorians tell her Founders name;</l>
+               <l>My work is to deſcribe her preſent Fame.</l>
+               <l>Hail Queen of Cities! mayſt thou ever be,</l>
+               <l>As now thou art, the Glory of the three.</l>
+               <l>Thou art erected on fo firm a Baſe</l>
+               <l>As neither time, nor envy, ſhall deface.</l>
+               <l>And if one unexperienc'd, can devine,</l>
+               <l>Thy glories ne'r ſhall ſet, but alwaies ſhine</l>
+               <l>In Honours Orb, there fixt, thy Friends to chear;</l>
+               <l>But Meteor-like poſſeſs thy Foes with fear.</l>
+               <l>If well built Ships, and ſtately buildings be</l>
+               <l>Th' Effects of Art, and Ingenuity?</l>
+               <l>And if theſe Arts do merit any praiſe?</l>
+               <l>Thou, out of ruine did'ſt thy Trophies raiſe:</l>
+               <pb n="7" facs="tcp:172824:3"/>
+               <!-- PDF PAGE 10 -->
+               <l>For Phoenix-like from Her bright Aſhes came</l>
+               <l>Another Phoenix to revive her name!</l>
+               <l>So ſhall ſucceeding Ages much admire,</l>
+               <l>How this great City fell and riſe! by Fire!</l>
+               <l>In lieu of Eggs to fill her empty neſt,</l>
+               <l>A City hatch't: equal to none! the beſt!</l>
+               <l>Each private building, like a Pallace, ſhowes;</l>
+               <l>Contriv'd by Art in Uniformal-rowes:</l>
+               <l>And in the middle of this glorious place,</l>
+               <l>Is rear'd an Edifice of Royal-race:</l>
+               <l>The <hi>Royal Exchange,</hi> where Merchants dayly meet,</l>
+               <l>Making the Pavements proud to kiſs their Feet.</l>
+               <l>To Noble <hi>Greſham,</hi> her firſt being owes,</l>
+               <l>And now her VValls a Kingly Race incloſe:</l>
+               <l>In Efigie (though dead) they lively ſtand,</l>
+               <l>Viewing the relicks of their paſt-command.</l>
+               <l>O're the <hi>Piazzi</hi> of this noble-ſquare,</l>
+               <l>Live tempting Angles ſelling out their ware,</l>
+               <l>VVhoſe ſwe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t-alluring-ſmiles, and lovely looks,</l>
+               <l>Take all the Fiſh that nibble at thoſe hooks.</l>
+               <l>Pride's ſould by'th' <hi>Peece,</hi> and Pleaſure, by the <hi>Yard:</hi>
+               </l>
+               <l>But whom you Traffick with, have great regard;</l>
+               <l>For ſome Commodities Infectious are—</l>
+               <l>Though to the outward ſhow appear moſt fair:</l>
+               <l>Yet ſometimes damag'd prove, and burnt within;</l>
+               <l>'Tis puniſhment to pay ſo dear for ſin;</l>
+               <l>And for a moments tickling pleaſure lye</l>
+               <l>A Moneth in pain, then play the Fool and dye.</l>
+               <pb n="8" facs="tcp:172824:4"/>
+               <!-- PDF PAGE 11 -->
+               <l>But here dull-<hi>Morpheus</hi> with his leaden Mace,</l>
+               <l>Did throw a pleaſing ſlumber or'e my face;</l>
+               <l>Which ſlid into the Portals of mine eyes,</l>
+               <l>And ſeis'd my ſences with a quick ſurpriſe.</l>
+               <l>'Twixt ſleep and waking on my back, I lay</l>
+               <l>VVhen Fancy rais'd a Viſionary-day;</l>
+               <l>And bad my drouſy thoughts, ſit down and ſee,</l>
+               <l>VVhile ſhe p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſented them a Comedy.</l>
+               <l>Faith, ſo it prov'd—Thrice had the Muſick plai'd</l>
+               <l>VVhen various Antiques, danc'd in Maſquerade.</l>
+               <l>They vaniſh'd ſtraight, and for a Prologue, comes</l>
+               <l>A fe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w in, full of his hauks, and humms:</l>
+               <l>Dreſt up in high-crown'd Hat, and narrow band,</l>
+               <l>VVho for a while did like an Image ſtand:</l>
+               <l>Into his mouth he ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kt his ſnotty ſnowt,</l>
+               <l>He ſpit and ſpaul'd and gently trod it out:</l>
+               <l>So having thus prepar'd himſelf to ſpeak</l>
+               <l>His tongue, like Bagpipes, through his Organs ſqueak.</l>
+               <l>My thoughts ſate ſympring at this formal ſight,</l>
+               <l>Had it been real I had laugh't out-right.</l>
+               <l>Mean while t'amuſe my thoughts a Siſter came,</l>
+               <l>He toucht her fleſh, and askt her carnal name;</l>
+               <l>The ſpirit mov'd him to ſalute her too,</l>
+               <l>And in the Act, he whiſper'd her, <hi>Wou't do?</hi>
+               </l>
+               <l>Doe' (quoth ſhe) what do'ſt thou mean by this?</l>
+               <l>T'increaſe the faithful; Lambs may play and kiſs:</l>
+               <l>The ſeed of Faith, ſown upon fertil ground,</l>
+               <l>VVill make the faithful every where abound.</l>
+               <l>His ſtrong deſire ſhe faintly do's refuſe,</l>
+               <l>And now his zeal the chaſe more hot perſues.</l>
+               <pb n="9" facs="tcp:172824:4"/>
+               <!-- PDF PAGE 11 -->
+               <l>Words, without Preſents, take ſucceſsleſs pains,</l>
+               <l>No Love like that of <hi>Bracelets, Pearls,</hi> and <hi>Chains:</hi>
+               </l>
+               <l>
+                  <hi>Preſents,</hi> in a dumb Language plead their mind,</l>
+               <l>And cauſe the Object quickly to be Kind.</l>
+               <l>VVith more than uſual haſt, urging her too't,</l>
+               <l>He now preſents her with ſome early fruit.</l>
+               <l>No ſooner taſted, but like Grannum <hi>Eve,</hi>
+               </l>
+               <l>She fell—and he upon her—here I leave.</l>
+               <l>Shou'd I proceed, 'twou'd titulate your blood,</l>
+               <l>And make ye ſtand to things that are not good:</l>
+               <l>Knowing how apt our Nature is that way,</l>
+               <l>Though, in a full <hi>Career,</hi> it forc'd me, ſtay.</l>
+            </lg>
+            <lg>
+               <l>Here, the <hi>Scaene</hi> ſhifted to th' <hi>Royal Exchange:</hi>
+               </l>
+               <l>My wand'ring thoughts through every Walk did range.</l>
+               <l>And leaning 'gainſt a Pillar, heard ſome ſay,</l>
+               <l>How that the firſt fair wind, they wou'd away:</l>
+               <l>And by diſcurſive Circumſtance, I found,</l>
+               <l>They and the Captain, were for — bound.</l>
+               <l>No ſooner a deſire poſſeſt my mind;</l>
+               <l>Of Place, and Perſons, alteration find.</l>
+               <l>Not lightning flaſhes ſwifter through the air;</l>
+               <l>Nor Lovers fancies gazing on the Fair,</l>
+               <l>Than did my Thoughts—</l>
+               <l>The whiſpr'ing voices, and the ſilken Cloathes;</l>
+               <l>Now chang'd to Tarry—and to ful-mouth'd Oaths.</l>
+               <l>The Boat-ſwain, loudeſt, bad them make leſs noiſe;</l>
+               <l>He lick't the <hi>Younckers,</hi> kick't about the Boys.</l>
+               <pb n="10" facs="tcp:172824:5"/>
+               <!-- PDF PAGE 12 -->
+               <l>Me thoughts, at this I was concern'd and vext;</l>
+               <l>And was afraid it might be my turn next.</l>
+               <l>Hands o're the ſide, the Captain's come aboard:</l>
+               <l>And with him Merchants, with Proviſions ſtor'd.</l>
+               <l>The <hi>Anchor</hi> weigh'd, and Ship juſt under ſail:</l>
+               <l>When in an inſtant ſprung a mighty Gale.</l>
+               <l>She now begins to bouze it with her ſnout,</l>
+               <l>And toſs her new Inhabitants about:</l>
+               <l>They, not inur'd to this unſtable Place;</l>
+               <l>It chang'd their mirth into a ſerious face.</l>
+               <l>And all confus'd, cannot tell what to think,</l>
+               <l>But reel and ſtagger, like as men in drink.</l>
+               <l>No pleaſing Object, now ſalutes the Eye,</l>
+               <l>But ugly Scelletons are ſtalking by.</l>
+               <l>A ſqueaſy ſtomach bids them to prepare</l>
+               <l>To take a Vomit, and to walk i'th' Air.</l>
+               <l>One throws himſelf upon his little Bed,</l>
+               <l>And on his hand, he leans his aching head.</l>
+               <l>Another, o're a Baſon ſays his Prayers:</l>
+               <l>VVhat he eat laſt, for thoſe will have it, ſpar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</l>
+               <l>A third, into the Gallery runs, and there</l>
+               <l>What he intends, thoſe next him, ſmell and hear.</l>
+               <l>Strip handſome women, let 'um naked ſtand;</l>
+               <l>Shou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d they with looks, intreat; with words, command:</l>
+               <l>Should they fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l back, and pluck them with 'um too,</l>
+               <l>They'd riſe agen, and little ſay, or do.</l>
+               <l>Few hours ſickneſs alters Nature quite,</l>
+               <l>And makes a Saint, of who before was Right.</l>
+               <pb n="11" facs="tcp:172824:5"/>
+               <!-- PDF PAGE 12 -->
+               <l>Had ſea or wind, but any Sence of wrong,</l>
+               <l>They wou'd not have maintain'd the VVar ſo long.</l>
+               <l>
+                  <hi>Boreas,</hi> puft up the Sea with ſwelling Pride;</l>
+               <l>Whoſe proud Ambitious waves, the Ship, defied:</l>
+               <l>And riſing up into a Mountaine's height,</l>
+               <l>Break in, and ſtagger her with no leſs weight.</l>
+               <l>The Scud flyes thick; ſuch threatning clouds appear,</l>
+               <l>Would melt a hardn'd courage into Fear:</l>
+               <l>When Cowards, who the danger do not know,</l>
+               <l>Can with a boldneſs to their ruine go:</l>
+               <l>So <hi>Aſſes,</hi> in diſguiſe, like <hi>Lions</hi> ſhow.</l>
+               <l>The angry Elements, in thunder ſpeak,</l>
+               <l>As if they wou'd, the courſe of Nature break;</l>
+               <l>And all it's order, into <hi>Chaos</hi> ſhake.</l>
+               <l>All darkneſs is,—But when the Lightnings fly,</l>
+               <l>And with their ſubtil fires inflame the Sky;</l>
+               <l>Which, like a <hi>Proſpect-glaſs,</hi> ſhow dangers nigh.</l>
+               <l>The Land <hi>(to many welcome!)</hi> now does roar,</l>
+               <l>With foaming <hi>Billows</hi> beating on the Shoar.</l>
+               <l>As hungry Lions, though they ſee their Prey</l>
+               <l>Make towards 'um, Impatient of delay,</l>
+               <l>Rouſe up, and meet it above half the way.</l>
+               <l>Even ſo th' Earth contra—to Natures courſe,</l>
+               <l>Moves in a dreadful ſhape to meet the ſource:</l>
+               <l>Which, as <hi>Jaccals</hi> the ſilly beaſts, decoy,</l>
+               <l>So wou'd the Seas, this beaten-ſhip, convoy</l>
+               <l>To its Deſtruction; Had not Providence</l>
+               <l>(VVho acts beyond the reach of common sence)</l>
+               <l>Made the big Clouds, a kind of sorrow ſhow,</l>
+               <l>And weep down bleſſings to the world below.</l>
+               <pb n="12" facs="tcp:172824:6"/>
+               <!-- PDF PAGE 13 -->
+               <l>Thoſe, who in Taverns keep good Company,</l>
+               <l>May partly gueſs what the diſorders be;</l>
+               <l>For when the Wine do's elevate the man,</l>
+               <l>He thinks, a cou'd do more than others can.</l>
+               <l>So have I ſeen, two Hectors ſtoutly draw,</l>
+               <l>VVhoſe very looks might keep a Fool in awe:</l>
+               <l>A <hi>MIS</hi> (chiefe) ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ps between, and whiſpers one,</l>
+               <l>That he ſhall uſe her firſt. The Quarrel's done.</l>
+               <l>He takes her at her word, and o're a Chair,</l>
+               <l>Lays her down gently; fumbles out his—</l>
+               <l>But that, alas! not in condition then;</l>
+               <l>Peept out its head, and ſhrunk it in agen.</l>
+               <l>VVhich when this Rival ſaw, he little ſed,</l>
+               <l>But ſent a bottle to his nodding-head,</l>
+               <l>And after that, another: Both ingage</l>
+               <l>Arm'd Cap-a-pe, with folly, VVine, and Rage.</l>
+               <l>The woman diſappointed of her pleaſure;</l>
+               <l>Swears, the next time, that he ſhall wait her leaſure:</l>
+               <l>She quits the Room, goes to another Friend,</l>
+               <l>VVho of her buſineſs quickly made an end.</l>
+               <l>For Men in drink can ſeldome go, or ſtand;</l>
+               <l>Much leſs perform a Ladys ſtrict command.</l>
+               <l>Aboard, confuſion much like this appears,</l>
+               <l>They were ſurpriz'd with drink, but theſe, with fears.</l>
+               <l>For in Reels one, with Breeches in his hand,</l>
+               <l>And what for fear and ſickneſs, cou'd not ſtand;</l>
+               <l>Fall's o're another, whoſe gaping faint reply,</l>
+               <l>Did let him know, he'd rather ſpue, than dye.</l>
+               <l>Though both helpt up, by thoſe which on them wait;</l>
+               <l>Yet not ſo ſoon, but all Contaminate.</l>
+               <pb n="13" facs="tcp:172824:6"/>
+               <!-- PDF PAGE 13 -->
+               <l>An Hamper of wine o'reſet, and waſh't away,</l>
+               <l>The reeking Mixture, which by its Confines lay.</l>
+               <l>No ſooner they, within their Cabbins ſtow'd,</l>
+               <l>The Sea was lay'd, and VVind more gently blow'd.</l>
+               <l>And having thus repos'd themſelves a while,</l>
+               <l>Roſe up, and at each others Fortunes, ſmile.</l>
+               <l>All their diſcourſe on the enſuing day,</l>
+               <l>Was, of the ſeveral poſtures how they lay.</l>
+               <l>But one more free than any of the reſt,</l>
+               <l>On his Companions of't wou'd break a Jeſt.</l>
+               <l>The Ghoſt of's <hi>Mother Came,</hi> whoſe envious frown,</l>
+               <l>Daſh't all their Mirth, and beat their ſmiling down!</l>
+               <l>Not that they ſtood in fear, only becauſe</l>
+               <l>They would be ſubject unto Honors Laws.</l>
+               <l>Such is the nature of true Gentlemen,</l>
+               <l>To take Abuſe, and not to give't agen.</l>
+               <l>For they by Honor, not by Envy led,</l>
+               <l>Take no Exception what is done or ſed.</l>
+            </lg>
+            <lg>
+               <l>More, t'allay their Mirth, and raiſe their Fear:</l>
+               <l>A <hi>Tartàn</hi> brings News, th' <hi>Hollanders</hi> are near.</l>
+               <l>Hammocks all down, and all the Guns put out:</l>
+               <l>The men half frighted, ſtaring, run about!</l>
+               <l>Some up the Shrowds; one above all Eſpies</l>
+               <l>Small Fiſhermen, the <hi>Hollanders,</hi> he cries.</l>
+               <l>No ſooner from his mouth the Allarum given:</l>
+               <l>The Paſſengers bequeath their Souls to Heaven!</l>
+               <l>One ſhivering ſtands, and whiſp'ring to his Friend;</l>
+               <l>Damme! theſe VVars will never have an end.</l>
+               <l>A ſecond ſtamps, and in his paſſion cryes,</l>
+               <l>My Friends have ſent me, for a Sacrifice!</l>
+               <pb n="14" facs="tcp:172824:7"/>
+               <!-- PDF PAGE 14 -->
+               <l>A little man, more ſerious than they,</l>
+               <l>Told them, this was no time, to curſe, but Pray.</l>
+               <l>A fourth, for his Piſtols calls; his Hanger trys</l>
+               <l>Upon a Gun, that when moſt need on't, flyes.</l>
+               <l>The moſt Devout, in haſt runs to his Cheſt,</l>
+               <l>For that good Book, which Pious men love beſt;</l>
+               <l>But being ſtow'd away beneath the reſt</l>
+               <l>Cou'd not be found,—faith 'twas a pretty Jeſt!</l>
+               <l>For up he ſnatches one, One which he took</l>
+               <l>By the Cover, to be a Sermon book;</l>
+               <l>Into the Cabin preſently repairs,</l>
+               <l>And after he had mumbled o're his Prayers;</l>
+               <l>With a compos'd and ſerious look begins</l>
+               <l>To read, the juſt reward of all our Sins.</l>
+               <l>So was the Book Intituled; but alaſs!</l>
+               <l>This gran-miſtake muſt now no longer paſs.</l>
+               <l>In ſtead of ſuch a Chapter, ſuch a Verſe;</l>
+               <l>There was a <hi>Duke</hi> brought in upon a Herſe.</l>
+               <l>A <hi>Prologue</hi> for the <hi>Text.</hi> One overlooks</l>
+               <l>Tells him 'a wonders, he will read ſuch Books.</l>
+               <l>He in a Fury throws the Book away,</l>
+               <l>The other out of roguery bids him Pray:</l>
+               <l>Becauſe that he but half an hour before,</l>
+               <l>Bad him not Curſe, but ſay his Prayers o're.</l>
+            </lg>
+            <lg>
+               <l>BRight <hi>Sol</hi> to the <hi>Antipodes</hi> was gone,</l>
+               <l>When ſilver <hi>Luna,</hi> did aſcend her throne;</l>
+               <l>VVhoſe fainter Beams ſhone with a glimmering light;</l>
+               <l>And took her brothers part, made Day, of Night!</l>
+               <l>Night rouz'd with anger, from a ſable ſhroud,</l>
+               <l>In circl'd all her glories in a Cloud.</l>
+               <pb n="15" facs="tcp:172824:7"/>
+               <!-- PDF PAGE 14 -->
+               <l>This is the time moſt Creatures go to reſt,</l>
+               <l>This is the time, which married men love beſt.</l>
+               <l>This is the time, that women love to play,</l>
+               <l>And with Love-tricks, to Kiſs Old-time away.</l>
+               <l>Juſt here, I wak't, and with my longing arms,</l>
+               <l>Imbrac't an empty ſhadow, without charms.</l>
+               <l>I turn'd about, and to my Pillow bow'd;</l>
+               <l>In ſtead of <hi>Juno,</hi> I imbrac'd a Cloud.</l>
+               <l>It wou'd vex you, or any one beſide,</l>
+               <l>To have an empty ſhadow for your Bride.</l>
+               <l>Your Pardon Sir,—I'me out of humor quite,</l>
+               <l>I ſhall grow tedious, ſhou'd I further write,</l>
+               <l>Therefore, without a Complement, Good Night.</l>
+            </lg>
+            <div type="epilogue">
+               <head>EPILOG<g ref="char:V">Ʋ</g>E.</head>
+               <lg>
+                  <l>MEthinks I hear ſome <hi>Petty-Critticks</hi> ſay,</l>
+                  <l>In all theſe Lines, he has not touch't the <hi>Play:</hi>
+                  </l>
+                  <l>We did expect his <hi>Satyr</hi> in a rage,</l>
+                  <l>Might ſcare the dancing <hi>Devils</hi> off the <hi>Stage.</hi>
+                  </l>
+                  <l>To undeceive ſuch expectation, know</l>
+                  <l>This <hi>Dream</hi> was Writ (not many Months ago)</l>
+                  <l>A thouſand <hi>Leagues</hi> from Hence; and by a Pen,</l>
+                  <l>That vallues not the Dammings of thoſe Men,</l>
+                  <l>Whoſe foppiſh humors to that paſs are grown,</l>
+                  <l>Nothing is Good, but what is like their Own!</l>
+                  <l>Full of ſtiff-Nonfence, Raill'ry <hi>A-la-mode!</hi>
+                  </l>
+                  <l>Where ev'ry <hi>Devil</hi> thunders like a <hi>god.</hi>
+                  </l>
+                  <l>The very ſound o'th' Words, do drown the Sence,</l>
+                  <l>And their ſtrong Lines are full of Impotence!</l>
+                  <l>Yet if you Read, and not the Verſe commend;</l>
+                  <l>Dam 'um, They'l preſently a <hi>Challenge</hi> ſend.</l>
+               </lg>
+               <q>
+                  <l>By <hi>ID, ESt,</hi>—That is to ſay,</l>
+                  <l>The <hi>Beſt,</hi> and <hi>Worſt,</hi> that ever writ a <hi>Play.</hi>
+                  </l>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
